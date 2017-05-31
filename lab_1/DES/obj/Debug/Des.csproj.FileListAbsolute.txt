@@ -1,0 +1,21 @@
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\bin\Debug\Laba_1_BPtD.exe.config
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\obj\Debug\Laba_1_BPtD.exe
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\obj\Debug\Laba_1_BPtD.pdb
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\bin\Debug\Laba_1_BPtD.exe
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\bin\Debug\Laba_1_BPtD.pdb
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\obj\Debug\Des.csprojResolveAssemblyReference.cache
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\obj\Debug\DEC.Form1.resources
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\obj\Debug\Laba_1_BPtD.Properties.Resources.resources
+C:\Users\juliu_000\Documents\Visual Studio 2015\Projects\DES\DES\obj\Debug\Des.csproj.GenerateResource.Cache
+D:\3 курс\Безопасность данных\Labs_Rudenko\1 DES\DES\bin\Debug\Laba_1_BPtD.exe.config
+D:\3 курс\Безопасность данных\Labs_Rudenko\1 DES\DES\obj\Debug\Laba_1_BPtD.exe
+D:\3 курс\Безопасность данных\Labs_Rudenko\1 DES\DES\obj\Debug\Laba_1_BPtD.pdb
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\bin\Debug\Laba_1_BPtD.exe.config
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\obj\Debug\Laba_1_BPtD.exe
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\obj\Debug\Laba_1_BPtD.pdb
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\bin\Debug\Laba_1_BPtD.exe
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\bin\Debug\Laba_1_BPtD.pdb
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\obj\Debug\Des.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\obj\Debug\DEC.Form1.resources
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\obj\Debug\Laba_1_BPtD.Properties.Resources.resources
+D:\3 курс\Безопасность\Labs_Rudenko\lab_1\DES\obj\Debug\Des.csproj.GenerateResource.Cache

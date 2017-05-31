@@ -1,0 +1,46 @@
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+E:\УЧЕБА\ИжГТУ\5 курс 10 семестр\Проекты VS\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+E:\Учеба\бпид\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+E:\Учеба\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+E:\Учеба\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+E:\Учеба\бпид\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+E:\Учеба\бпид\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+E:\Учеба\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csprojResolveAssemblyReference.cache
+E:\Учеба\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+E:\Учеба\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+E:\Учеба\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csproj.GenerateResource.Cache
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\bin\Debug\RSA_code.exe
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+D:\3 курс\Безопасность данных\бпид\RSA_code\RSA_code\obj\x86\Debug\RSA_code.csproj.GenerateResource.Cache
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\bin\Debug\RSA_code.exe.config
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\obj\x86\Debug\RSA_code.exe
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\obj\x86\Debug\RSA_code.pdb
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\bin\Debug\RSA_code.exe
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\bin\Debug\RSA_code.pdb
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\obj\x86\Debug\RSA_code.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+D:\3 курс\Безопасность данных\Labs_Rudenko\2 RSA_code\RSA_code\obj\x86\Debug\RSA_code.csproj.GenerateResource.Cache
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\bin\Debug\RSA_code.exe.config
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\obj\x86\Debug\RSA_code.exe
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\obj\x86\Debug\RSA_code.pdb
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\bin\Debug\RSA_code.exe
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\bin\Debug\RSA_code.pdb
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\obj\x86\Debug\RSA_code.csprojResolveAssemblyReference.cache
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\obj\x86\Debug\RSA_code.Form1.resources
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\obj\x86\Debug\RSA_code.Properties.Resources.resources
+D:\3 курс\Безопасность\Labs_Rudenko\lab_2\RSA_code\obj\x86\Debug\RSA_code.csproj.GenerateResource.Cache
