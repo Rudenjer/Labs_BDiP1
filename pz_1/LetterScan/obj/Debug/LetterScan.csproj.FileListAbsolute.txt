@@ -1,0 +1,16 @@
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\bin\Debug\LetterScan.exe.config
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\bin\Debug\LetterScan.exe
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\bin\Debug\LetterScan.pdb
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan.csprojResolveAssemblyReference.cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\MainWindow.g.cs
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\App.g.cs
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan_MarkupCompile.cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan_MarkupCompile.lref
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\MainWindow.baml
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan.g.resources
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan.Properties.Resources.resources
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan.csproj.GenerateResource.Cache
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan.exe
+c:\users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\LetterScan.pdb
+C:\Users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\Analisys.g.cs
+C:\Users\juliu_000\documents\visual studio 2015\Projects\LetterScan\LetterScan\obj\Debug\Analisys.baml
